@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![view stats](https://rushter.com/counter.svg)
+
+- 💬 Ask me anything
+- 
+
 <!--
 **lampts/lampts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
