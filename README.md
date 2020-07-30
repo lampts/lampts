@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ![view stats](https://rushter.com/counter.svg)
+![lampts stats](https://github-readme-stats.vercel.app/api?username=lampts&show_icons=true&theme=radical&count_private=true)
+![lampts github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lampts&show_icons=true&theme=radical&layout=compact)
 
-- 💬 Ask me anything
-- 
 
 <!--
 **lampts/lampts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
