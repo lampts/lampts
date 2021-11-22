@@ -5,6 +5,8 @@
 ![lampts stats](https://github-readme-stats.vercel.app/api?username=lampts&show_icons=true&theme=radical&count_private=true)
 ![lampts github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lampts&show_icons=true&theme=radical&layout=compact)
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition/light)
 
 <!--
 **lampts/lampts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
