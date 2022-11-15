@@ -26,3 +26,4 @@
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition)
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/saigonapps/competition/light)
 
+![lampts’s GitHub image](https://crd.so/api/github?username=lampts)
